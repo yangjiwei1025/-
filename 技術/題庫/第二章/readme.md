@@ -64,6 +64,9 @@ B
 2.持有和等待（hold and wait）：一個行程可以在等待時持有系統資源。
 3.互斥（mutual exclusion）：資源只能同時分配給一個行程，無法多個行程共享。
 4.循環等待（circular waiting）：一系列行程互相持有其他行程所需要的資源。
+```
+
+```
 [15]請問 ssh 公私鑰存在 Linux 哪個目錄？ 
 (A) /.ssh (B) /home (C) /etc (D) user 
 ```
@@ -142,6 +145,8 @@ B
 ```
 Windows patch修補程式
 查詢你的Windows裝了哪些的Patch
+```
+```
 [119]請問下列何者「並非」作業系統中毒的可能徵狀?
 (A) 檔案無故遭加密
 (B) 上網速度變慢或無法連線
@@ -169,6 +174,8 @@ https://zh.wikipedia.org/zh-tw/IPsec
 三、安全關聯（SA），提供演算法和封包，提供AH、ESP操作所需的參數。
 
 https://kkc.github.io/2018/03/21/IPSEC-note/
+```
+```
 [117]下列何者不屬於作業系統安全預防(Preventive)機制?
 (A) 實施密碼原則       (B) 安裝防毒軟體
 (C) 定期套用安全性更新  (D) 定期檢視安全記錄檔(Log)
