@@ -136,6 +136,9 @@ D
 [67]下列何者不是微軟 Windows 作業系統中，具特權權限之帳號？ 
 (A) Administrator (B) root (C) 在 Administrators 群組中之一般使用者帳號 (D) Local System 
 ```
+```
+root --> linux 的最高權限
+```
 B
 ```
 [64]當作業系統安裝好之後，為了避免因為安全因素導致作業系統遭受駭客入侵，應採取下列何項措施較佳？ 
